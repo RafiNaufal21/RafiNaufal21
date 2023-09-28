@@ -31,7 +31,7 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafinaufal21&show_icons=true&theme=tokyonight&layout=compact" alt="rafinaufal21" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naufalhambali65&show_icons=true&theme=tokyonight" alt="rafinaufal21" /></p>
+<p>&nbsp;<img align="center"  src="https://github-readme-stats-salesp07.vercel.app/api?username=RafiNaufal21&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="rafinaufal21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafinaufal21&" alt="rafinaufal21" /></p>
 <div align="center">
